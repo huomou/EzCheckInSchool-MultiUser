@@ -31,7 +31,7 @@
 
 [QRcode](http://wxpusher.zjiecode.com/api/qrcode/1men6ZnAtqckyldYHDbYfOKSsqcxxhXtu6nXChdP9iybdir048fJ1VxU0W5Kwlgo.jpg)
 
-每个用户都需要扫描此二维码关注新消息服务公众号
+每个用户都需要扫 描此二维码关注新消息服务公众号
 
 然后依次点击`我的`->`我的UID`，获取每个用户的UID
 
